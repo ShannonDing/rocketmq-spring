@@ -3,6 +3,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.rocketmq/rocketmq-spring-all/badge.svg)](https://search.maven.org/search?q=g:org.apache.rocketmq%20AND%20a:rocketmq-spring-all)
 [![GitHub release](https://img.shields.io/badge/release-download-orange.svg)](https://github.com/apache/rocketmq-spring/releases)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![HitCount](http://hits.dwyl.io/apache/rocketmq-spring.svg)](http://hits.dwyl.io/apache/rocketmq-spring)
 
 [中文](./README_zh_CN.md)
 
